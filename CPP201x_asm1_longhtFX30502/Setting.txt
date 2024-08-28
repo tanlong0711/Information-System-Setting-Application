@@ -1,0 +1,4 @@
+Common:long;long@gmail.com;11111111;2;2/General: French;(GMT-10:00) /Sound:0;0;0;0/ Display:0;0;0
+Common:Long;long@gmail.com;12312345;1;1/General: Vietnamese;(GMT+07:00)/Sound:0;0;0;0/ Display:1;1;1
+Common:thanh;thanh@gmail.com;22222222;2;2/General: Wu (inc. Shanghainese);(GMT+13:00) /Sound:0;0;0;0/ Display:0;0;0
+Common:ok;okk@gmna.com;44444444;4;4/General: German;(GMT-09:00) /Sound:0;0;0;0/ Display:0;0;0
